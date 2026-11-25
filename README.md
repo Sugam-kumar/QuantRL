@@ -42,15 +42,15 @@ Python, NumPy, Pandas, Matplotlib, Gymnasium. PyTorch is optional and only used 
 - NumPy absolute beginners guide: https://numpy.org/doc/stable/user/absolute_beginners.html
 - Pandas, 10 minutes to pandas: https://pandas.pydata.org/docs/user_guide/10min.html
 - Matplotlib tutorials: https://matplotlib.org/stable/tutorials
+
 **Probability**
 - Harvard Stat 110 (Joe Blitzstein), lectures 1-10, on YouTube
 - *Think Stats* / *Think Bayes* by Allen Downey (free online), for probability in Python
+  
 **Git and GitHub**
 - Pro Git book (free): https://git-scm.com/book
 - Learn Git Branching (interactive): https://learngitbranching.js.org
 - GitHub Skills (hands-on courses): https://skills.github.com
-- MIT Missing Semester, Version Control (Git) lecture: https://missing.csail.mit.edu
-- Atlassian Git tutorials: https://www.atlassian.com/git/tutorials
 ---
  
 ## Week 2: Probability continued and intro to RL
